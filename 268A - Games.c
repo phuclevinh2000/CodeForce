@@ -8,7 +8,7 @@ int main(){
   {
     scanf("%d %d", &a[i], &b[i]);
   }
-  for(int i=0; i<t; i++)
+  for(int i=0; i<t; i++)    //xet 1 day a va 1 day b, voi tung a thi chay nguyen day b, neu giong thi count++
   {
     for(int j=0; j<t; j++)
     {
