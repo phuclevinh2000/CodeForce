@@ -1,4 +1,4 @@
-//271A - Beautiful Year.c
+//271A - Beautiful Year.cpp
 #include <iostream>
 using namespace std;
 
