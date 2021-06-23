@@ -4,5 +4,5 @@ This is solutions for CodeForce's problems coded in C and C++ language to improv
 
 You are free to use my code for other purposes.
 
-#How to run the solutions
+# How to run the solutions
 To run the solution, put the solution file into any C or C++ compiler. Then you can compile and run
