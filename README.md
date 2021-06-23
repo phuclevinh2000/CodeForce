@@ -1,2 +1,2 @@
 # CodeForce
-This is solution for CodeForce problem coded in C and C++ language to improve my algorithm skill
+This is solutions for CodeForce's problems coded in C and C++ language to improve my algorithm skill
